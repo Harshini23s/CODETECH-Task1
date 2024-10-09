@@ -13,6 +13,13 @@ PROJECT: MY PERSONAL PORTFOLIO
 
 ![image alt](https://github.com/Harshini23s/CODETECH-Task1/blob/1806d5436fcdadf81c6ce410784228ccd1c6efab/Screenshot%20(141).png)
 
-![image alt]()
+![image alt](https://github.com/Harshini23s/CODETECH-Task1/blob/afe5258734e73045739c99cd985552ede25d175d/Screenshot%20(142).png)
+
+Technologies Uesd:
+1. HTML5
+2. CSS
+3. JAVASCRIPT
+4. A COMPLETE LAYOUT
+   
 
 
