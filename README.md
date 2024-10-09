@@ -20,6 +20,16 @@ Technologies Uesd:
 2. CSS
 3. JAVASCRIPT
 4. A COMPLETE LAYOUT
+
+SUMMARY
+This is a complete portfolio webpage that includes navigation, an image gallery, an "About Me" section, pricing tables, a contact form, and a footer. W3.CSS simplifies the styling, and the template is designed to be responsive, adapting to different screen sizes. To personalize this template, you need to update the placeholder content and images with your own.
+
+
+
+
+
+
+
    
 
 
