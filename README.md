@@ -9,6 +9,8 @@ OVERVIEW OF THE PROJECT
 
 PROJECT: MY PERSONAL PORTFOLIO
 
+![image alt](https://github.com/Harshini23s/CODETECH-Task1/blob/2552fceb4aa166608d874b340a3ed13a14c305c1/Screenshot%20(140).png)
+
 ![image alt]()
 
 
